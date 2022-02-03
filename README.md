@@ -20,10 +20,10 @@
     <img src="https://iconape.com/wp-content/png_logo_vector/express-js-logo.png" width="50"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" width=50></img></br></br>
     <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width=50></img>
-    <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width=50></img>
     <img src="https://marcas-logos.net/wp-content/uploads/2020/03/Docker-Logo-2013.png" width=50></img>
     <img src="https://progsoft.net/images/metasploit-community-edition-icon-6b894e45f96681688c6d29e0376a7ed5aaa636e1.png" width=50></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1024px-Fedora_logo.svg.png" width=50></img>
+    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width=50></img> lo pondre cuando sea semi-senior en c++-->
   </p>
     
 </p>
