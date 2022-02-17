@@ -3,7 +3,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=PrintfDead"/><br><br>
   <p align="center">
     <code>Sobre mi</code><br><br>
-    <p align="center">Soy estudiante de seguridad informatica, soy desarrollador front-end and back-end, programo de todo un poco, tambien hago pentesting. <br> <a href="https://home.nyfoo-pro.ml/">home.nyfoo-pro.ml (Proximamente)</a></p>
+    <p align="center">Soy estudiante de seguridad informatica, soy desarrollador front-end and back-end, programo de todo un poco, tambien hago pentesting. <br> <a href="https://rip.akaprintf.ml/">ar.akprintf.rip (Proximamente)</a></p>
   </p><br><br>
   <p align="center">
     <code>Arbol de tecnologias</code><br><br>
